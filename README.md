@@ -14,3 +14,5 @@
 1. 开启你项目的 GitHub Page（分支选择 master）
 2. 把链接放给他
 3. 祈祷他没有使用 IE
+
+说明：fork自https://github.com/FrankFang/wtf-slides，因为fork了之后，settings 配置pages一直没有显示链接，试了一下把代码下载到本地，重新创建一个仓库，之后可以正常配置显示链接了。
